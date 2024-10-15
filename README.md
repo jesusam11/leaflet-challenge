@@ -32,9 +32,10 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
 ## Source Files
 
-Leaflet-Part-1/index.html - app page that displays requirements listed in instructions
+index.html - app page that displays requirements listed in instructions
 
-Leaflet-Part-1/static/app.js - javascript file that fufills requirements listed in instructions.
+static/app.js - javascript file that fufills requirements listed in instructions.
 
+https://jesusam11.github.io/leaflet-challenge/ - live app page
 
 
